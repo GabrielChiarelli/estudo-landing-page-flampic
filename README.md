@@ -1,4 +1,4 @@
-# estudo-site-loja-de-produtos-naturais
+# estudo-landing-page-flampic
 
 Um estudo de uma página de um produto (FLAMPIC), com imagem, descrição e detalhes. Feita em HTML5 e CSS3.
 <br>
